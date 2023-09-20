@@ -4,7 +4,7 @@
 
 * Project : IN PROGRESS 🚧
 * Documentation : IN PROGRESS 🚧
-* Last update : `r format(Sys.time(), '%d %B, %Y')`
+* Last update : `20/09/2023`
 
 
 ## Objectives
