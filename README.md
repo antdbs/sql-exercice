@@ -2,9 +2,9 @@
 
 ## Status
 
-Project : ==IN PROGRESS==
-Documentation : ==IN PROGRESS==
-Last update : "`r format(Sys.time(), '%d %B, %Y')`"
+* Project : IN PROGRESS 🚧
+* Documentation : IN PROGRESS 🚧
+* Last update : `r format(Sys.time(), '%d %B, %Y')`
 
 
 ## Objectives
@@ -20,8 +20,9 @@ Build an ELT pipeline in Python
 
 ### Perequesite
 
-- Have a knowledge `Gitflow` command
-- Know basic of Python
+> [!NOTE]
+> - Have a knowledge `Gitflow` command
+> - Know basic of Python
 
 ### Procedure
 
